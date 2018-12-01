@@ -536,7 +536,7 @@ namespace PictureBot.Responses
 Note here a whole task is missing. Fill in as you see fit, but make sure the new task has the name "ReplyWithSearchRequest", or you may have issues later.  
 
 #### Models 
-Due to time limitations, we will not be walking through creating all the models. They are straightforward, but we recommend taking some time to review the code within after you've added them. Right-click on the "Models" folder and select **Add>Existing Item**. Navigate to "lab02.2-building_bots/resources/code/Models", select all three files, and select "Add."  
+Due to time limitations, we will not be walking through creating all the models. They are straightforward, but we recommend taking some time to review the code within after you've added them. Right-click on the "Models" folder and select **Add>Existing Item**. Navigate to "lab03-building_bots/resources/code/Models", select all three files, and select "Add."  
 
 At this point, your Solution Explorer should look similar to the following image:
 

@@ -44,7 +44,12 @@ Within the Azure Search blade you just created, click **Import Data->Data Source
 
 ![Import Wizard for DocDB](./resources/assets/AzureSearch-DataSource.png) 
 
-Once you click this, choose a name for the Cosmos DB data source. If you completed the previous lab, `lab01.1-computer_vision`, choose the Cosmos DB account where your data resides as well as the corresponding Container and Collections. If you did not complete the previous lab, select "Or input a connection string" and find a friendly neighbor that is willing to provide their connection string. For both, the Database should be "images" and the Collection should be "metadata".
+Once you click this, choose a name for the Cosmos DB data source. Select "Or input a connection string" and use this value: 
+```
+AccountEndpoint=https://biad-shared.documents.azure.com:443/;AccountKey=10PZ69ofxTyy1v8fRYtTXKZqC67krVvMBHjRCEBMv4ZIbVhG0gAm06Jb5Nc1yaug1MiDBIaTID9mDSo5iz1Eiw==;
+```
+
+For both, the Database should be "images" and the Collection should be "metadata".
 
 Click **OK**.
 
