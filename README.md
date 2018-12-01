@@ -47,11 +47,11 @@ Please note: This is a rough agenda, and the schedule is subject to change pendi
 
 - 8-9 (optional): Setup assistance
 - 9-10: Introduction and Context for Bots and Cognitive Services
-- 10-11: [Lab 1: Developing Intelligent Applications with LUIS][lab-cogsrvc-341]
-- 11-12: [Lab 2: Developing Intelligent Applications with Azure Search][lab-azsearch-301]
+- 10-11: [Lab 1: Developing Intelligent Applications with LUIS](./lab01-luis/0_README.md)
+- 11-12: [Lab 2: Developing Intelligent Applications with Azure Search](./lab02-azure_search/0_README.md)
 - 12-1: Lunch
-- 1-3: [Lab 3: Building Intelligent Bots][lab-intelbot-301]
-- 3-4: [Lab 4: Enhancing Applications with Bing Search](./lab02.3-bing_search/0_README.md)
+- 1-3: [Lab 3: Building Intelligent Bots](./lab03-building_bots/0_README.md)
+- 3-4: [Lab 4: Enhancing Applications with Bing Search](./lab04-bing_search/0_README.md)
 - 4-5: Q&A and Feedback for Bot in a Day
 
 ## Supplementary materials
@@ -65,15 +65,7 @@ Here are some related courses from the LearnAI team:
 - [LearnAI: Intelligent Agents: Design and Architecture](https://aka.ms/daaia)
 - [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/csw)  
 
-[lab-cogsrvc-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-301
-[lab-cogsrvc-321]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-321
-[lab-cogsrvc-322]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-322
-[lab-cogsrvc-323]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-323
-[lab-cogsrvc-341]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-cogsrvc-341
-[lab-azsearch-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-azsearch-301
-[lab-intelbot-301]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-301
-[lab-intelbot-311]: https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-311
-[lab-intelbot-321]:https://aka.ms/LearnAI-EmergingAIDevBootcamp-intelbot-321
+
 [gitter]: https://gitter.im/LearnAI-Bootcamps
 
 # Contributing
